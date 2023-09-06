@@ -16,7 +16,7 @@
 	cellColor="#ffffff"
 	sectionColor="#ffffff"
 	sectionThickness={0}
-	fadeDistance={25}
+	fadeDistance={50}
 	cellSize={2}
 />
 
